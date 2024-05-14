@@ -1,4 +1,4 @@
-WITH rl AS (
+WITH rll AS (
  SELECT
  *
  FROM
@@ -15,4 +15,4 @@ SELECT
  created_at,
  updated_at
 FROM
- rl
+ rll
