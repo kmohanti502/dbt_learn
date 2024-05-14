@@ -1,4 +1,4 @@
-WITH rr AS (
+WITH rrl AS (
  SELECT
  *
  FROM
@@ -11,4 +11,4 @@ SELECT
  comments AS review_text,
  sentiment AS review_sentiment
 FROM
-rr
+rrl
